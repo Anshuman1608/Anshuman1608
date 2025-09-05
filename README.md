@@ -1,6 +1,6 @@
 # 💻 Anshuman Singh
 
-![Engineering Banner](https://user-images.githubusercontent.com/54244847/105528637-3cbd6280-5b0b-11eb-8be6-8d97c2a17cff.jpg)
+![wp3228743-engineering-day-computer-science-wallpapers](https://user-images.githubusercontent.com/54244847/105528637-3cbd6280-5d0b-11eb-8be6-8d97c2a17cff.jpg)
 
 ### 👋 Hi there, welcome to my GitHub!
 
